@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+    color:burlywood;
+}
+
+#diwaliImg{
+    width:50%;
+    display:none;
+    
+}
+
+button{
+    background-color: deeppink;
+    padding:10px;
+    font-size: 15px;
+    color:white;
+    margin:5px;
+    border-radius: 10px;
+}
